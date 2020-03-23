@@ -1,3 +1,3 @@
-console.error("anything")
-console.log("anything else")
-console.warn("anything otherwise")
+console.error("Error message")
+console.log("Log message")
+console.warn("Warning message")
